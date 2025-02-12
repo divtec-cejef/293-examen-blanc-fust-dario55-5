@@ -95,7 +95,6 @@ main {
 }
 
 .produits li {
-    border: 2px solid #151515;
     flex-basis: 50%;
     padding: 2% 1rem;
     transition: all 0.2s ease-in-out;
@@ -109,6 +108,7 @@ main {
     text-align: center;
     margin: 0;
     padding: 1.5rem .75rem;
+    border: 2px solid #151515;
 }
 
 .produits figcaption {
